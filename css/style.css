@@ -1,0 +1,35 @@
+/* common css start */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul{
+    list-style: none;
+}
+/* common css end */
+
+/* numbers start */
+#numbers{
+    background: url(../images/bg2.webp) no-repeat center / cover;
+    padding: 300px 0;
+}
+.main1{
+    padding: 150px 0 200px 0;
+    text-align: center;
+}
+.main_text{
+    position: absolute; 
+    font-size: 36px;
+    color: white;
+    font-family: "Rye", serif;
+}
+
+/* numbers end */
